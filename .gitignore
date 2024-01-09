@@ -1,0 +1,10 @@
+
+# This configuration file meant for git
+# Here we should define which files / folders
+# Should be ignored and not uploaded
+
+.env
+
+node_modules/
+
+*.~
